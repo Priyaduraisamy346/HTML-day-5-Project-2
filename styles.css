@@ -1,0 +1,30 @@
+body{
+    background-color: darkcyan;
+    display: grid;
+    
+}
+h1{
+  width: 1000px; 
+  margin: 35px;
+  border: 80px;
+  
+}
+#result{
+    width: 370px;
+    height: 40px;
+}
+table{
+    width: 20px;
+    height: 20px;
+}
+td{
+    width: 70px;
+    height: 5px;
+    font-size: 100px;
+}
+button{
+    width: 70px;
+    height: 60px;
+    font-size: 18px;
+    border-radius: 7px 7px 7px 7px;
+}
